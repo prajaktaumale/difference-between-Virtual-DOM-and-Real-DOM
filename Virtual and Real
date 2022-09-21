@@ -1,0 +1,17 @@
+REAL DOM:
+1. DOM manipulation is very expensive.
+2. There is too much memory wastage.
+3. It updates slow 
+4. It can directly update HTML.
+5. Creates a new DOM if the element updates.
+6. It allows us to directly target any specific node.
+
+
+
+VIRTUAL DOM
+1. DOM manipulation is very easy
+2. No memory wastage
+3. It updates fast
+4. It can't update HTML directly.
+5. Update the JSX if the elment update.
+6. It can produce about 200,000 virtual DOM Nodes/second.
